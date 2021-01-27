@@ -37,6 +37,7 @@
 
     <script src="//cdn.tinymce.com/4/tinymce.min.js"></script>
     <script src="/vendor/laravel-filemanager/js/stand-alone-button.js"></script>
+    <script src="https://cdn.tiny.cloud/1/rsk9p62nbxvluwi0b3bz4rx4oohm44x4aarbdi54sviucz6v/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>
     <script>
         var editor_config = {
             path_absolute : "/",
