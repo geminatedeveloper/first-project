@@ -39,8 +39,8 @@ return [
             'host' => env('MAIL_HOST'),
             'port' => env('MAIL_PORT', 2525),
             'encryption' => env('MAIL_ENCRYPTION', 'tls'),
-            'username' => env('MAIL_USERNAME'),
-            'password' => env('MAIL_PASSWORD'),
+            'username' => env('MAIL_USERNAME','9a1293bae2ae6b'),
+            'password' => env('MAIL_PASSWORD','08f739b323ef35'),
             'timeout' => null,
             'auth_mode' => null,
         ],
@@ -84,8 +84,8 @@ return [
     */
 
     'from' => [
-        'address' => env('MAIL_FROM_ADDRESS', 'info@alefyar.com'),
-        'name' => env('MAIL_FROM_NAME', 'وب سایت الف یار'),
+        'address' => env('MAIL_FROM_ADDRESS','geminatedeveloper@gmail.com'),
+        'name' => env('MAIL_FROM_NAME','geminatedeveloper'),
     ],
 
     /*
