@@ -100,7 +100,7 @@
                                     <p
                                         style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; box-sizing: border-box; color: #3d4852; font-size: 16px; line-height: 1.5em; margin-top: 0; text-align: left;">
                                         با سپاس,<br>
-                                        وب سایت الف یار</p>
+                                        ادمین سایت</p>
 
                                     <table class="subcopy" width="100%" cellpadding="0" cellspacing="0"
                                            role="presentation"
@@ -108,14 +108,7 @@
                                         <tr>
                                             <td
                                                 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; box-sizing: border-box;">
-                                                <p
-                                                    style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; box-sizing: border-box; color: #3d4852; line-height: 1.5em; margin-top: 0; text-align: left; font-size: 12px;">
-                                                    اگر مشکلی در باز شدن لینک داشتید میتوانید لینک زیر را کپی و در
-                                                    مرورگر خود پیست کنید: <a href="{{$url}}"
-                                                                             style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; box-sizing: border-box; color: #3869d4;">
 
-                                                    </a>
-                                                </p>
                                             </td>
                                         </tr>
                                     </table>
@@ -134,9 +127,7 @@
                             <tr>
                                 <td class="content-cell" align="center"
                                     style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; box-sizing: border-box; padding: 35px;">
-                                    <p
-                                        style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; box-sizing: border-box; line-height: 1.5em; margin-top: 0; color: #aeaeae; font-size: 12px; text-align: center;">
-                                        © وب سایت الفیار</p>
+
                                 </td>
                             </tr>
                         </table>
