@@ -33,13 +33,14 @@ class CommentSent extends Mailable
      */
     public function build()
     {
-        return $this->from('no-reply@alefyar.com')
-            ->subject('کامنت شما دریافت شد')
+        return $this->from('geminatedeveloper@gmail.com')
+            ->subject('کامنت شما دریافت شد.')
             ->view('mails.comment')->with([
                 'articleTitle' => $this->article->name,
                 'commentBody' => $this->comment->body,
                 'userName' => $this->comment->name
             ]);
-        // ->text('mails.coment_plain');
+
     }
 }
+
