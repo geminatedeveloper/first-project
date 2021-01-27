@@ -4,7 +4,7 @@
 
     <div class="container">
 
-        <h1>Resize Image Uploading Demo</h1>
+        <h1>Resize Image Uploading </h1>
 
         @if (count($errors) > 0)
 
